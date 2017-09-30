@@ -1,0 +1,13 @@
+C:\Users\roada\source\repos\GerenciadorDeConfiguracao\GerenciadorDeConfiguracao.Data\bin\Debug\GerenciadorDeConfiguracao.Data.dll.config
+C:\Users\roada\source\repos\GerenciadorDeConfiguracao\GerenciadorDeConfiguracao.Data\bin\Debug\GerenciadorDeConfiguracao.Data.dll
+C:\Users\roada\source\repos\GerenciadorDeConfiguracao\GerenciadorDeConfiguracao.Data\bin\Debug\GerenciadorDeConfiguracao.Data.pdb
+C:\Users\roada\source\repos\GerenciadorDeConfiguracao\GerenciadorDeConfiguracao.Data\bin\Debug\EntityFramework.dll
+C:\Users\roada\source\repos\GerenciadorDeConfiguracao\GerenciadorDeConfiguracao.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roada\source\repos\GerenciadorDeConfiguracao\GerenciadorDeConfiguracao.Data\bin\Debug\GerenciadorDeConfiguracao.Domain.dll
+C:\Users\roada\source\repos\GerenciadorDeConfiguracao\GerenciadorDeConfiguracao.Data\bin\Debug\GerenciadorDeConfiguracao.Domain.pdb
+C:\Users\roada\source\repos\GerenciadorDeConfiguracao\GerenciadorDeConfiguracao.Data\bin\Debug\EntityFramework.xml
+C:\Users\roada\source\repos\GerenciadorDeConfiguracao\GerenciadorDeConfiguracao.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roada\source\repos\GerenciadorDeConfiguracao\GerenciadorDeConfiguracao.Data\obj\Debug\GerenciadorDeConfiguracao.Data.csprojResolveAssemblyReference.cache
+C:\Users\roada\source\repos\GerenciadorDeConfiguracao\GerenciadorDeConfiguracao.Data\obj\Debug\GerenciadorDeConfiguracao.Data.csproj.CoreCompileInputs.cache
+C:\Users\roada\source\repos\GerenciadorDeConfiguracao\GerenciadorDeConfiguracao.Data\obj\Debug\GerenciadorDeConfiguracao.Data.dll
+C:\Users\roada\source\repos\GerenciadorDeConfiguracao\GerenciadorDeConfiguracao.Data\obj\Debug\GerenciadorDeConfiguracao.Data.pdb

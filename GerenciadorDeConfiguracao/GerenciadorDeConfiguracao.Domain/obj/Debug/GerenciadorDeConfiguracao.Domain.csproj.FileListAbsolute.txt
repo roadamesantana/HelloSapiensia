@@ -1,0 +1,5 @@
+C:\Users\roada\source\repos\GerenciadorDeConfiguracao\GerenciadorDeConfiguracao.Domain\bin\Debug\GerenciadorDeConfiguracao.Domain.dll
+C:\Users\roada\source\repos\GerenciadorDeConfiguracao\GerenciadorDeConfiguracao.Domain\bin\Debug\GerenciadorDeConfiguracao.Domain.pdb
+C:\Users\roada\source\repos\GerenciadorDeConfiguracao\GerenciadorDeConfiguracao.Domain\obj\Debug\GerenciadorDeConfiguracao.Domain.csproj.CoreCompileInputs.cache
+C:\Users\roada\source\repos\GerenciadorDeConfiguracao\GerenciadorDeConfiguracao.Domain\obj\Debug\GerenciadorDeConfiguracao.Domain.dll
+C:\Users\roada\source\repos\GerenciadorDeConfiguracao\GerenciadorDeConfiguracao.Domain\obj\Debug\GerenciadorDeConfiguracao.Domain.pdb

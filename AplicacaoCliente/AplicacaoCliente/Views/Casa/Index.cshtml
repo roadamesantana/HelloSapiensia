@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Casa</h2>
+
+<div ng-controller="casaController">
+    <div class="panel panel-default">
+        <div class="panel-heading">Listagem de casas</div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-12">
+                    <strong>{{ error }}</strong>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-hover">
+                            <tr>
+                                <th></th>
+                                <th colspan="2" style="text-align:center;">Ventilador</th>
+                                <th colspan="4" style="text-align:center;">Luz</th>
+                                <th></th>
+                            </tr>
+                            <tr>
+                                <th style="text-align:center;">Casa</th>
+                                <th style="text-align:center;">Sala (%)</th>
+                                <th style="text-align:center;">Quarto (%)</th>
+                                <th style="text-align:center;">Sala</th>
+                                <th style="text-align:center;">Quarto</th>
+                                <th style="text-align:center;">Banheiro</th>
+                                <th style="text-align:center;">Cozinha</th>
+                                <th></th>
+                            </tr>
+                            <tr ng-repeat="casa in listaCasasFuncoes" style="text-align:center;">
+                                <form>
+                                    <td style="text-align:left;">{{ casa.Casa.Nome }}</td>
+                                    <td><input type="text" ng-model="casa.VentiladorSala" style="width:40px;"></td>
+                                    <td><input type="text" ng-model="casa.VentiladorQuarto" style="width:40px;"></td>
+                                    <td><input type="checkbox" ng-model="casa.LuzSala" ng-true-value="true" ng-false-value="false"></td>
+                                    <td><input type="checkbox" ng-model="casa.LuzQuarto" ng-true-value="true" ng-false-value="false"></td>
+                                    <td><input type="checkbox" ng-model="casa.LuzBanheiro" ng-true-value="true" ng-false-value="false"></td>
+                                    <td><input type="checkbox" ng-model="casa.LuzCozinha" ng-true-value="true" ng-false-value="false"></td>
+                                    <td><input type="button" value="Salvar" title="{{ casa.Id }}" ng-click="submitForm()" /></td>
+                                </form>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
